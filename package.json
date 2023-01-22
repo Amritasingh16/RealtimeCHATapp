@@ -1,0 +1,25 @@
+{
+  "name": "realtimechatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amritasingh16/RealtimeCHATapp.git"
+  },
+  "keywords": [],
+  "author": "Amrita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amritasingh16/RealtimeCHATapp/issues"
+  },
+  "homepage": "https://github.com/Amritasingh16/RealtimeCHATapp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  }
+}
